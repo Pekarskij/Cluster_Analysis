@@ -1,0 +1,3 @@
+gc 0 0 1 1 100
+kmcores 4 3
+EXIT
