@@ -1,4 +1,0 @@
-> gc 0 0 1 1 100
-< Cloud created
-> kmcores 4 3
-< Clustering...
