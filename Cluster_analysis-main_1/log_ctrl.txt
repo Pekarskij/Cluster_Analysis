@@ -1,0 +1,8 @@
+> gc 0.000000 0.000000 5.000000 5.000000 500
+< Field initialized
+< Cloud created
+> Matrix
+< Field is readonly now.
+> Interpolation 0.000000 0.000000
+< Interpolation completed
+< znachenie funkcii f = 4.995887 koefficient oshibki R = 0.995352

@@ -1,0 +1,4 @@
+gc 0 0 5 5 500
+matrix
+inter 0 0
+EXIT
